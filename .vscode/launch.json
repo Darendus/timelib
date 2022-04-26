@@ -9,7 +9,7 @@
       "stopAtEntry": false,
       "cwd": "c:/Users/Janni/Desktop/SchulRepo/timelib",
       "environment": [],
-      "program": "c:/Users/Janni/Desktop/SchulRepo/timelib/build/Debug/outDebug",
+      "program": "c:/Users/Janni/Desktop/SchulRepo/timelib/build/Release/outRelease",
       "internalConsoleOptions": "openOnSessionStart",
       "MIMode": "gdb",
       "miDebuggerPath": "c:/msys64/mingw32/bin/gdb.exe",
